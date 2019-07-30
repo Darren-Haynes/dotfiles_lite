@@ -3,6 +3,7 @@
 # Install and configure vim
 
 sudo apt-get update
+sudo apt install curl
 sudo apt install vim
 
 undo_dir="$HOME/.vim/undodir"
